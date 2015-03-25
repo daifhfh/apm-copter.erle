@@ -1,7 +1,7 @@
 name: apm-copter.erle
 vendor: Erle Robotics <contact@erlerobot.com>
 icon: meta/erle-small.png
-version: 1.4
+version: 1.4.1
 architecture: armhf
 binaries:
  - name: src/ArduCopter.elf
