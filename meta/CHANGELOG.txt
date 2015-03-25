@@ -1,0 +1,10 @@
+v.1.4 (25-03-15)
+================
+- Removed capes loading
+- updated services
+
+v.1.3 (11-03-15)
+================
+- Changed the place where logs are stored to /home/ubuntu/logs
+- Added battery voltage support to the autopilot
+- Parameters are now stored in the hard-drive
