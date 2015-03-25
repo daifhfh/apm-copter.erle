@@ -1,6 +1,6 @@
 [Unit]
 Description=APM:Copter autopilot launch service
-After=cloud-final.service
+After=capes.service
 
 [Service]
 #Type=oneshot
